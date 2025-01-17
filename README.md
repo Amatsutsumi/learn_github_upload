@@ -6,5 +6,6 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Amatsutsumi/learn_github_upload.git
+git pull origin main --allow-unrelated-histories
 git push -u origin main
 ```
